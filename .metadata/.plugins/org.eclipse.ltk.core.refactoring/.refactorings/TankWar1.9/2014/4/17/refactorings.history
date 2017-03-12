@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;TankWar1.9&apos;&#x0D;&#x0A;- Original project: &apos;TankWar1.9&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Explode.java&#x0D;&#x0A;     Missile.java&#x0D;&#x0A;     Tank.java&#x0D;&#x0A;     TankClient.java" description="Delete elements" element1="/src&lt;{TankClient.java" element2="/src&lt;{Tank.java" element3="/src&lt;{Missile.java" element4="/src&lt;{Explode.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1398482456266" subPackages="false" version="1.0"/>
+</session>
